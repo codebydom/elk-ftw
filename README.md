@@ -1,4 +1,4 @@
-#(ELASTICSEARCH/LOGSTASH/KIBANA DASHBOARD SETUP For Windows 10)  
+# (ELASTICSEARCH/LOGSTASH/KIBANA DASHBOARD SETUP For Windows 10)  
 
 ElasticSearch, LogStash, Kibana stack instructions to set up in a Windows 10 environment  
 

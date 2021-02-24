@@ -46,7 +46,7 @@ ElasticSearch, LogStash, Kibana stack instructions to set up in a Windows 10 env
 ![image](./kibana-dash.png "Kibana Dashboard"). 
 ![image](./kibana-dash2.png "Kibana Dashboard with Map"). 
 
-21.)the Canvas is a quick view of the key metrics that the data is telling us, not as filterable as the Dashboard.  
+21.) Kibana Canvas is a quick view of the key metrics that the data is telling us, not as filterable as the Dashboard, but still highly customizable.  
 ![image](./kibana-canvas.png "Kibana Canvas"). 
 
 22.) Map is an interactive map of the location from where the website's visitors came from, you can also see how much data a certain area uses. You can also filter and set what parts of the map you want to drill down into. 
@@ -54,3 +54,5 @@ ElasticSearch, LogStash, Kibana stack instructions to set up in a Windows 10 env
 
 23.) You can view the raw log data in the Logs time, but this is more interactive, insightful, and visually appealing way to look at logs as compared to raw log text files. All very cool and productive tools to track all different types of data. 
 ![image](./kibana-logs.png "Kibana Home Screen"). 
+
+Thank You for Reading!
